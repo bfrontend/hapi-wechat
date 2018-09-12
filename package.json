@@ -1,0 +1,30 @@
+{
+  "name": "wechatapp",
+  "version": "0.0.1",
+  "description": "on simple wechat application by hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "application"
+  ],
+  "author": "webxmsj",
+  "license": "MIT",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.6.3",
+    "hapi-pagination": "^1.22.0",
+    "hapi-swagger": "^7.10.0",
+    "inert": "^4.2.1",
+    "joi": "^13.6.0",
+    "mysql2": "^1.6.1",
+    "package": "^1.0.1",
+    "sequelize": "^4.38.1",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^4.1.1"
+  }
+}
